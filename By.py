@@ -91,7 +91,7 @@ helpMessage ="""🌿 CommandMember 🌿
 - Cleanse
 
 ==================================================
-BOT : IFDHOL
+BOT : ???
 SUPPORT BY : SILENT BUT DEADLY
 """
 KAC=[cl,ki,kk,kc]
@@ -101,8 +101,8 @@ Bmid = kk.getProfile().mid
 Cmid = kc.getProfile().mid
 
 Bots=[mid,Amid,Bmid,Cmid]
-admin=["ua9bc35c918832c32bb462d9ec18941c0"]
-creator=["ua9bc35c918832c32bb462d9ec18941c0"]
+admin=["uc9afe870a7ab9769e059b8e46dedadb"]
+creator=["uc9afe870a7ab9769e059b8e46dedadb"]
 wait = {
     'contact':False,
     'autoJoin':True,
