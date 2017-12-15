@@ -101,8 +101,8 @@ Bmid = kk.getProfile().mid
 Cmid = kc.getProfile().mid
 
 Bots=[mid,Amid,Bmid,Cmid]
-admin=["uc9afe870a7ab9769e059b8e46dedadb"]
-creator=["uc9afe870a7ab9769e059b8e46dedadb"]
+admin=["ua9bc35c918832c32bb462d9ec18941c0"]
+creator=["ua9bc35c918832c32bb462d9ec18941c0"]
 wait = {
     'contact':False,
     'autoJoin':True,
@@ -123,7 +123,7 @@ wait = {
     "dblacklist":False,
     "Protectguest":False,
     "Protectcancel":False,
-    "protectionOn":True,
+    "protectionOn":False,
     "atjointicket":True
     }
 
